@@ -1,9 +1,6 @@
-# getTest
-# 这习文件夹
-# 第二次修改
-fdhasfdasl]]d]
+### git 命令
 
-dsfjklasdfads
+##### git status
 
-#第三次修改
-#
+|| 查看文件当前的状态
+
