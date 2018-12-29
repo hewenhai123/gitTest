@@ -43,14 +43,7 @@
  * todo/ 忽略todo/所有文件
  * todo/*.txt 忽略todo目录下所有.txt文件 （不包括 todo/server/*.txt）
  * todo/**/*.txt 忽略todo目录下所有.txt文件
-<<<<<<< HEAD
 
 
-wo dsfhdasfjhasdl
-=======
- 
- 
- 
- #### 我在线上修改了这个文件
- 
->>>>>>> a45f613ab925320dd43ce91179360c76c48d125c
+
+dsafjsdk
