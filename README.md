@@ -17,10 +17,10 @@
 >  查看暂存区更新了那些内容
 
 
-##### git commit 
+##### git commit
  > 提交更新 将add 后的暂存区 添加的提交记录
- 
- 
+
+
 ##### git commit -a （跳过 git add）
 > 因为每次提交前都需要先add 比较麻烦，所有可以使用 git commit -a 来解决，git会自动把所有已跟踪过的文件暂存起来一并提交。从而跳过 git add 步骤
 
@@ -30,9 +30,9 @@
 > 可以使用 正则进行匹配删除 git rm log/\*.log (正则斜杠转义)
 
 ##### git rm --cached (从暂存区中删除记录)
-> 出现错误暂存记录时，需要是使用 git rm --cached 来删除暂存区记录，这样可以保留，目录下文件 
+> 出现错误暂存记录时，需要是使用 git rm --cached 来删除暂存区记录，这样可以保留，目录下文件
 
-##### 我在线上修改了 readme.md 的文件
+##### 我在线上修改了 readme.md 的文件3我单位
 
 ##### 关于.gitignore 文件
 
@@ -43,4 +43,4 @@
  * /todo 忽略/todo目录下所有文件 ** 只有这个目录下 **
  * todo/ 忽略todo/所有文件
  * todo/*.txt 忽略todo目录下所有.txt文件 （不包括 todo/server/*.txt）
- * todo/**/*.txt 忽略todo目录下所有.txt文件	
+ * todo/**/*.txt 忽略todo目录下所有.txt文件
